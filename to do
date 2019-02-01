@@ -1,0 +1,5 @@
+Study Different type of GANS
+Different Measure to quantify distance between probability distributions and apply them in GANS
+contrastive-predictive-coding (Unsupervised Learning)
+Using LSTMS or RNN in video Analytics to predict Next Action
+Spark ,AWS lambda ,Distributed Deep learning and implementing different ideas of combining gradients based on weighted mean of validation accuracy
