@@ -3,3 +3,7 @@ Different Measure to quantify distance between probability distributions and app
 contrastive-predictive-coding (Unsupervised Learning)
 Using LSTMS or RNN in video Analytics to predict Next Action
 Spark ,AWS lambda ,Distributed Deep learning and implementing different ideas of combining gradients based on weighted mean of validation accuracy
+Research for Gradient Optimization Algorithms other than Gradient descent for deep learning
+https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network
+
+Above link works great
